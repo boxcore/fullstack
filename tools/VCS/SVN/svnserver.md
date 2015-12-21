@@ -4,6 +4,9 @@
 
 ```bash
 /etc/init.d/svnserve restart
+# 或者
+service svnserver restart
+
 ```
 
 启动svn服务器可以使用下面命令：
