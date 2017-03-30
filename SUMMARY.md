@@ -8,5 +8,4 @@
     * [Java Basic](programming/java/java-basic.md)
   * [JavaScript](programming/javascript.md)
 * [Soft Skill](soft-skill.md)
-* [Project Management](project-management.md)
 
