@@ -6,4 +6,5 @@
   * [PHP](programming/php.md)
   * [Java](programming/java.md)
     * [Java Basic](programming/java/java-basic.md)
+  * [JavaScript](programming/javascript.md)
 
